@@ -1,11 +1,12 @@
 {
   "name": "github-page",
   "version": "0.0.0",
-  "scripts": {
-  },
+  "scripts": {},
   "private": true,
   "dependencies": {
+    "three": "^0.153.0"
   },
   "devDependencies": {
+    "vite": "^4.3.9"
   }
 }
